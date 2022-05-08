@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anim-Zola
+- 👋 Hi, I’m @Shedrack Abel Nicholas
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Golang
 - 💞️ I’m looking to collaborate on ...Open Source Projects
