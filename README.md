@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shedrack Abel Nicholas
+- 👋 Hi, I’m @Shedrack Abel Nicholas AKA OgdenMorroww-cpu
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Golang
 - 💞️ I’m looking to collaborate on ...Open Source Projects
